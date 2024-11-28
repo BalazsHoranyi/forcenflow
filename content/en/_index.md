@@ -45,7 +45,7 @@ In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi 
 
 ![](/uploads/photos/hike/hike1.jpg)
 
-## "Zach Nelson has made me the strongest I've ever been!"
+## "Zach Nelsen has made me the strongest I've ever been!"
 — One happy camper
 
 {{< /brick_quote >}}
