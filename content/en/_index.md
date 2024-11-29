@@ -48,4 +48,10 @@ In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi 
 ## "Zach Nelsen has made me the strongest I've ever been!"
 — One happy camper
 
+
 {{< /brick_quote >}}
+
+{{< brick_contact >}}
+
+
+{{< /brick_contact >}}

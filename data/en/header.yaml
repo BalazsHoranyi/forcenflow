@@ -1,8 +1,8 @@
 logo_image:
 logo_subtitle: Saiyan Strong
-dark_header: false
+dark_header: true
 mobile_view_width: 1100
-menuitems:
+#menuitems:
 #  - title: Headers
 #    link: /headers/
 #    items:
