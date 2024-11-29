@@ -1,6 +1,6 @@
 favicon_image: /uploads/branding/fandf.webp
 color_name:
-sticky_header: false
+sticky_header: true
 dark_header: false
 dark_footer: true
 customcursor: false

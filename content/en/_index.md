@@ -50,8 +50,3 @@ In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi 
 
 
 {{< /brick_quote >}}
-
-{{< brick_contact >}}
-
-
-{{< /brick_contact >}}

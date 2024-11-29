@@ -5,7 +5,7 @@ title: Get started
 
 {{< breadcrumbs >}}
 
-# Get started
+# Get started today!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis.
 

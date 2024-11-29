@@ -3,7 +3,7 @@ placeholders: false
 fields: 
 - name: title
   input_type: html
-  label: <h3>Get Started Today!</h3>
+  label: <h3>Let us know what you are looking for</h3>
   required: true
 - name: name
   input_type: text

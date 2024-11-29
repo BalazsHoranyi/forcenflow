@@ -89,10 +89,12 @@
           </div>
           {{- end -}}
           {{ if (index .Site.Data .Language.Lang).header.cta.active }}
-          <a href="{{ (index .Site.Data .Language.Lang).header.cta.link }}" class="button smaller">{{ (index .Site.Data .Language.Lang).header.cta.title }}</a>
-		      {{ end }}
+          <a href="{{ (index .Site.Data .Language.Lang).header.cta.link }}" class="button smaller mobile_cta">
+            {{ (index .Site.Data .Language.Lang).header.cta.title }}
+          </a>
+          {{ end }}
         </div>
-        <button id="togglemenu" onclick="event.stopPropagation(); document.body.classList.add('menushown');"><span class="black_2_textDark">Toggle menu</span></button>
+<!--        <button id="togglemenu" onclick="event.stopPropagation(); document.body.classList.add('menushown');"><span class="black_2_textDark">Toggle menu</span></button>-->
         <script>
           function navClick(event,el) {
             var li = el.parentElement;
